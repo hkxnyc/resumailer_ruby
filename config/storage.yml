@@ -8,10 +8,10 @@ local:
 
 amazon:
   service: S3
-  access_key_id: "AKIAI2MG2UKLTYROENNQ"
-  secret_access_key: "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"
-  region: "us-west-1"
-  bucket: "resumailer"
+  access_key_id: ""
+  secret_access_key: ""
+  region: ""
+  bucket: ""
 
 # Remember not to checkin your GCS keyfile to a repository
 # google:
